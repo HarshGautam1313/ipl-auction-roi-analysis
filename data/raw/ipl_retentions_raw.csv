@@ -1,0 +1,983 @@
+season,retaining_team,player,nationality,salary
+2018,Chennai Super Kings,MS Dhoni,,1500
+2018,Chennai Super Kings,Ravindra Jadeja,,700
+2018,Chennai Super Kings,Suresh Raina,,1100
+2018,Delhi Capitals,Chris Morris,,710
+2018,Delhi Capitals,Rishabh Pant,,800
+2018,Delhi Capitals,Shreyas Iyer,,700
+2018,Kings XI Punjab,Axar Patel,,675
+2018,Kolkata Knight Riders,Andre Russell,,700
+2018,Kolkata Knight Riders,Sunil Narine,,850
+2018,Mumbai Indians,Hardik Pandya,,1100
+2018,Mumbai Indians,Jasprit Bumrah,,700
+2018,Mumbai Indians,Rohit Sharma,,1500
+2018,Rajasthan Royals,Steve Smith,,1200
+2018,Royal Challengers Bangalore,AB de Villiers,,1100
+2018,Royal Challengers Bangalore,Sarfaraz Khan,,175
+2018,Royal Challengers Bangalore,Virat Kohli,,1700
+2018,Sunrisers Hyderabad,Bhuvneshwar Kumar,,850
+2018,Sunrisers Hyderabad,David Warner,,1200
+2019,Chennai Super Kings,Ambati Rayudu,India,220
+2019,Chennai Super Kings,Chaitanya Bishnoi,India,20
+2019,Chennai Super Kings,David Willey [REP],England,200
+2019,Chennai Super Kings,Deepak Chahar,India,80
+2019,Chennai Super Kings,Dhruv Shorey,India,20
+2019,Chennai Super Kings,Dwayne Bravo,Trinidad and Tobago,640
+2019,Chennai Super Kings,Faf du Plessis,South Africa,160
+2019,Chennai Super Kings,Harbhajan Singh,India,200
+2019,Chennai Super Kings,Imran Tahir,South Africa,100
+2019,Chennai Super Kings,KM Asif,India,40
+2019,Chennai Super Kings,Karn Sharma,India,500
+2019,Chennai Super Kings,Kedar Jadhav,India,780
+2019,Chennai Super Kings,Lungi Ngidi,South Africa,50
+2019,Chennai Super Kings,Mahendra Singh Dhoni,India,1500
+2019,Chennai Super Kings,Mitchell Santner,New Zealand,50
+2019,Chennai Super Kings,Monu Singh,India,20
+2019,Chennai Super Kings,Murali Vijay,India,200
+2019,Chennai Super Kings,Narayan Jagadeesan,India,20
+2019,Chennai Super Kings,Ravindra Jadeja,India,700
+2019,Chennai Super Kings,Sam Billings,England,100
+2019,Chennai Super Kings,Shane Watson,Australia,400
+2019,Chennai Super Kings,Shardul Thakur,India,260
+2019,Chennai Super Kings,Suresh Raina,India,1100
+2019,Delhi Capitals,Amit Mishra,India,400
+2019,Delhi Capitals,Avesh Khan,India,70
+2019,Delhi Capitals,Chris Morris,South Africa,710
+2019,Delhi Capitals,Colin Munro,New Zealand,190
+2019,Delhi Capitals,Harshal Patel,India,20
+2019,Delhi Capitals,Jayant Yadav [TRA],India,50
+2019,Delhi Capitals,Kagiso Rabada,South Africa,420
+2019,Delhi Capitals,Manjot Kalra,India,20
+2019,Delhi Capitals,Prithvi Shaw,India,120
+2019,Delhi Capitals,Rahul Tewatia,India,300
+2019,Delhi Capitals,Rishabh Pant,India,800
+2019,Delhi Capitals,Sandeep Lamichhane,Nepal,20
+2019,Delhi Capitals,Shreyas Iyer,India,700
+2019,Delhi Capitals,Trent Boult,New Zealand,220
+2019,Kings XI Punjab,Andrew Tye,Australia,720
+2019,Kings XI Punjab,Ankit Rajpoot,India,300
+2019,Kings XI Punjab,Chris Gayle,Jamaica,200
+2019,Kings XI Punjab,David Miller,South Africa,300
+2019,Kings XI Punjab,KL Rahul,India,1100
+2019,Kings XI Punjab,Karun Nair,India,560
+2019,Kings XI Punjab,Mayank Agarwal,India,100
+2019,Kings XI Punjab,Mujeeb Ur Rahman,Afghanistan,400
+2019,Kings XI Punjab,Ravichandran Ashwin,India,760
+2019,Kolkata Knight Riders,Andre Russell,Jamaica,700
+2019,Kolkata Knight Riders,Chris Lynn,Australia,960
+2019,Kolkata Knight Riders,Dinesh Karthik,India,740
+2019,Kolkata Knight Riders,Kamlesh Nagarkoti,India,320
+2019,Kolkata Knight Riders,Kuldeep Yadav,India,580
+2019,Kolkata Knight Riders,Nitish Rana,India,340
+2019,Kolkata Knight Riders,Piyush Chawla,India,420
+2019,Kolkata Knight Riders,Prasidh Krishna,India,20
+2019,Kolkata Knight Riders,Rinku Singh,India,80
+2019,Kolkata Knight Riders,Robin Uthappa,India,640
+2019,Kolkata Knight Riders,Shivam Mavi,India,300
+2019,Kolkata Knight Riders,Shubman Gill,India,180
+2019,Kolkata Knight Riders,Sunil Narine,Trinidad and Tobago,850
+2019,Mumbai Indians,Adam Milne,New Zealand,75
+2019,Mumbai Indians,Aditya Tare,India,20
+2019,Mumbai Indians,Anukul Roy,India,20
+2019,Mumbai Indians,Ben Cutting,Australia,220
+2019,Mumbai Indians,Evin Lewis,Trinidad and Tobago,380
+2019,Mumbai Indians,Hardik Pandya,India,1100
+2019,Mumbai Indians,Ishan Kishan,India,620
+2019,Mumbai Indians,Jason Behrendorff,Australia,150
+2019,Mumbai Indians,Jasprit Bumrah,India,700
+2019,Mumbai Indians,Kieron Pollard,Trinidad and Tobago,540
+2019,Mumbai Indians,Krunal Pandya,India,880
+2019,Mumbai Indians,Mayank Markande,India,20
+2019,Mumbai Indians,Mitchell McClenaghan,New Zealand,100
+2019,Mumbai Indians,Rahul Chahar,India,190
+2019,Mumbai Indians,Rohit Sharma,India,1500
+2019,Mumbai Indians,Siddhesh Lad,India,20
+2019,Mumbai Indians,Suryakumar Yadav,India,320
+2019,Rajasthan Royals,Ajinkya Rahane,India,400
+2019,Rajasthan Royals,Aryaman Birla,India,30
+2019,Rajasthan Royals,Ben Stokes,England,1250
+2019,Rajasthan Royals,Dhawal Kulkarni,India,75
+2019,Rajasthan Royals,Ish Sodhi,New Zealand,50
+2019,Rajasthan Royals,Jofra Archer,Barbados,720
+2019,Rajasthan Royals,Jos Buttler,England,440
+2019,Rajasthan Royals,Krishnappa Gowtham,India,620
+2019,Rajasthan Royals,Mahipal Lomror,India,20
+2019,Rajasthan Royals,Prashant Chopra,India,20
+2019,Rajasthan Royals,Rahul Tripathi,India,340
+2019,Rajasthan Royals,Sanju Samson,India,800
+2019,Rajasthan Royals,Shreyas Gopal,India,20
+2019,Rajasthan Royals,Steve Smith,Australia,1200
+2019,Rajasthan Royals,Stuart Binny,India,50
+2019,Rajasthan Royals,Sudhesan Midhun,India,20
+2019,Royal Challengers Bangalore,AB de Villiers,South Africa,1100
+2019,Royal Challengers Bangalore,Colin de Grandhomme,New Zealand,220
+2019,Royal Challengers Bangalore,Kulwant Khejroliya,India,85
+2019,Royal Challengers Bangalore,Moeen Ali,England,170
+2019,Royal Challengers Bangalore,Mohammed Siraj,India,260
+2019,Royal Challengers Bangalore,Nathan Coulter-Nile,Australia,220
+2019,Royal Challengers Bangalore,Navdeep Saini,India,300
+2019,Royal Challengers Bangalore,Parthiv Patel,India,170
+2019,Royal Challengers Bangalore,Pawan Negi,India,100
+2019,Royal Challengers Bangalore,Tim Southee,New Zealand,100
+2019,Royal Challengers Bangalore,Umesh Yadav,India,420
+2019,Royal Challengers Bangalore,Virat Kohli,India,1700
+2019,Royal Challengers Bangalore,Washington Sundar,India,320
+2019,Royal Challengers Bangalore,Yuzvendra Chahal,India,600
+2019,Sunrisers Hyderabad,Basil Thampi,India,95
+2019,Sunrisers Hyderabad,Bhuvneshwar Kumar,India,850
+2019,Sunrisers Hyderabad,Billy Stanlake,Australia,50
+2019,Sunrisers Hyderabad,David Warner,Australia,1200
+2019,Sunrisers Hyderabad,Deepak Hooda,India,360
+2019,Sunrisers Hyderabad,Kane Williamson,New Zealand,300
+2019,Sunrisers Hyderabad,Khaleel Ahmed,India,300
+2019,Sunrisers Hyderabad,Manish Pandey,India,1100
+2019,Sunrisers Hyderabad,Mohammad Nabi,Afghanistan,100
+2019,Sunrisers Hyderabad,Rashid Khan,Afghanistan,900
+2019,Sunrisers Hyderabad,Ricky Bhui,India,20
+2019,Sunrisers Hyderabad,Sandeep Sharma,India,300
+2019,Sunrisers Hyderabad,Shakib Al Hasan,Bangladesh,200
+2019,Sunrisers Hyderabad,Shreevats Goswami,India,100
+2019,Sunrisers Hyderabad,Siddarth Kaul,India,380
+2019,Sunrisers Hyderabad,Thangarasu Natarajan,India,40
+2019,Sunrisers Hyderabad,Yusuf Pathan,India,190
+2020,Chennai Super Kings,Ambati Rayudu,India,220
+2020,Chennai Super Kings,Deepak Chahar,India,80
+2020,Chennai Super Kings,Dwayne Bravo,Trinidad and Tobago,640
+2020,Chennai Super Kings,Faf du Plessis,South Africa,160
+2020,Chennai Super Kings,Harbhajan Singh,India,200
+2020,Chennai Super Kings,Imran Tahir,South Africa,100
+2020,Chennai Super Kings,Jagadeesan Narayan,India,20
+2020,Chennai Super Kings,KM Asif,India,40
+2020,Chennai Super Kings,Karn Sharma,India,500
+2020,Chennai Super Kings,Kedar Jadhav,India,780
+2020,Chennai Super Kings,Lungisani Ngidi,South Africa,50
+2020,Chennai Super Kings,MS Dhoni,India,1500
+2020,Chennai Super Kings,Mitchell Santner,New Zealand,50
+2020,Chennai Super Kings,Monu Singh,India,20
+2020,Chennai Super Kings,Murali Vijay,India,200
+2020,Chennai Super Kings,Ravindra Jadeja,India,700
+2020,Chennai Super Kings,Ruturaj Gaikwad,India,20
+2020,Chennai Super Kings,Shane Watson,Australia,400
+2020,Chennai Super Kings,Shardul Thakur,India,260
+2020,Chennai Super Kings,Suresh Raina,India,1100
+2020,Delhi Capitals,Amit Mishra,India,400
+2020,Delhi Capitals,Avesh Khan,India,70
+2020,Delhi Capitals,Axar Patel,India,500
+2020,Delhi Capitals,Harshal Patel,India,20
+2020,Delhi Capitals,Ishant Sharma,India,110
+2020,Delhi Capitals,Kagiso Rabada,South Africa,420
+2020,Delhi Capitals,Keemo Paul,Guyana,50
+2020,Delhi Capitals,Prithvi Shaw,India,120
+2020,Delhi Capitals,Rishabh Pant,India,800
+2020,Delhi Capitals,Sandeep Lamichhane,Nepal,20
+2020,Delhi Capitals,Shikhar Dhawan,India,520
+2020,Delhi Capitals,Shreyas Iyer,India,700
+2020,Kings XI Punjab,Arshdeep Singh,India,20
+2020,Kings XI Punjab,Chris Gayle,Jamaica,200
+2020,Kings XI Punjab,Darshan Nalkande,India,30
+2020,Kings XI Punjab,Hardus Viljoen,South Africa,75
+2020,Kings XI Punjab,Harpreet Brar,India,20
+2020,Kings XI Punjab,KL Rahul,India,1100
+2020,Kings XI Punjab,Karun Nair,India,560
+2020,Kings XI Punjab,Mandeep Singh,India,140
+2020,Kings XI Punjab,Mayank Agarwal,India,100
+2020,Kings XI Punjab,Mohammad Shami,India,480
+2020,Kings XI Punjab,Mujeeb Ur Rahman,Afghanistan,400
+2020,Kings XI Punjab,Murugan Ashwin,India,20
+2020,Kings XI Punjab,Nicholas Pooran,Trinidad and Tobago,420
+2020,Kings XI Punjab,Sarfaraz Khan,India,25
+2020,Kolkata Knight Riders,Andre Russell,Jamaica,700
+2020,Kolkata Knight Riders,Dinesh Karthik,India,740
+2020,Kolkata Knight Riders,Harry Gurney,England,75
+2020,Kolkata Knight Riders,Kamlesh Nagarkoti,India,320
+2020,Kolkata Knight Riders,Kuldeep Yadav,India,580
+2020,Kolkata Knight Riders,Lockie Ferguson,New Zealand,160
+2020,Kolkata Knight Riders,Nitish Rana,India,340
+2020,Kolkata Knight Riders,Prasidh Krishna,India,20
+2020,Kolkata Knight Riders,Rinku Singh,India,80
+2020,Kolkata Knight Riders,Sandeep Warrier [REP],India,20
+2020,Kolkata Knight Riders,Shivam Mavi,India,300
+2020,Kolkata Knight Riders,Shubman Gill,India,180
+2020,Kolkata Knight Riders,Sunil Narine,Trinidad and Tobago,850
+2020,Mumbai Indians,Aditya Tare,India,20
+2020,Mumbai Indians,Anmolpreet Singh,India,80
+2020,Mumbai Indians,Anukul Roy,India,20
+2020,Mumbai Indians,Hardik Pandya,India,1100
+2020,Mumbai Indians,Ishan Kishan,India,620
+2020,Mumbai Indians,Jasprit Bumrah,India,700
+2020,Mumbai Indians,Jayant Yadav,India,50
+2020,Mumbai Indians,Kieron Pollard,Trinidad and Tobago,540
+2020,Mumbai Indians,Krunal Pandya,India,880
+2020,Mumbai Indians,Lasith Malinga,Sri Lanka,200
+2020,Mumbai Indians,Mitchell McClenaghan,New Zealand,100
+2020,Mumbai Indians,Quinton de Kock,South Africa,280
+2020,Mumbai Indians,Rahul Chahar,India,190
+2020,Mumbai Indians,Rohit Sharma,India,1500
+2020,Mumbai Indians,Suryakumar Yadav,India,320
+2020,Rajasthan Royals,Ben Stokes,England,1250
+2020,Rajasthan Royals,Jofra Archer,England,720
+2020,Rajasthan Royals,Jos Buttler,England,440
+2020,Rajasthan Royals,Mahipal Lomror,India,20
+2020,Rajasthan Royals,Manan Vohra,India,20
+2020,Rajasthan Royals,Riyan Parag,India,20
+2020,Rajasthan Royals,Sanju Samson,India,800
+2020,Rajasthan Royals,Shashank Singh,India,30
+2020,Rajasthan Royals,Shreyas Gopal,India,20
+2020,Rajasthan Royals,Steve Smith,Australia,1200
+2020,Rajasthan Royals,Varun Aaron,India,240
+2020,Royal Challengers Bangalore,AB de Villiers,South Africa,1100
+2020,Royal Challengers Bangalore,Devdutt Padikkal,India,20
+2020,Royal Challengers Bangalore,Gurkeerat Singh,India,50
+2020,Royal Challengers Bangalore,Moeen Ali,England,170
+2020,Royal Challengers Bangalore,Mohammed Siraj,India,260
+2020,Royal Challengers Bangalore,Navdeep Saini,India,300
+2020,Royal Challengers Bangalore,Parthiv Patel,India,170
+2020,Royal Challengers Bangalore,Pawan Negi,India,100
+2020,Royal Challengers Bangalore,Shivam Dube,India,500
+2020,Royal Challengers Bangalore,Umesh Yadav,India,420
+2020,Royal Challengers Bangalore,Virat Kohli,India,1700
+2020,Royal Challengers Bangalore,Washington Sundar,India,320
+2020,Royal Challengers Bangalore,Yuzvendra Chahal,India,600
+2020,Sunrisers Hyderabad,Abhishek Sharma,India,55
+2020,Sunrisers Hyderabad,Basil Thampi,India,95
+2020,Sunrisers Hyderabad,Bhuvneshwar Kumar,India,850
+2020,Sunrisers Hyderabad,Billy Stanlake,Australia,50
+2020,Sunrisers Hyderabad,David Warner,Australia,1200
+2020,Sunrisers Hyderabad,Jonny Bairstow,England,220
+2020,Sunrisers Hyderabad,Kane Williamson,New Zealand,300
+2020,Sunrisers Hyderabad,Khaleel Ahmed,India,300
+2020,Sunrisers Hyderabad,Manish Pandey,India,1100
+2020,Sunrisers Hyderabad,Mohammad Nabi,Afghanistan,100
+2020,Sunrisers Hyderabad,Rashid Khan,Afghanistan,900
+2020,Sunrisers Hyderabad,Sandeep Sharma,India,300
+2020,Sunrisers Hyderabad,Shahbaz Nadeem,India,320
+2020,Sunrisers Hyderabad,Shreevats Goswami,India,100
+2020,Sunrisers Hyderabad,Siddarth Kaul,India,380
+2020,Sunrisers Hyderabad,Thangarasu Natarajan,India,50
+2020,Sunrisers Hyderabad,Vijay Shankar,India,320
+2020,Sunrisers Hyderabad,Wriddhiman Saha,India,120
+2021,Chennai Super Kings,Ambati Rayudu,India,220
+2021,Chennai Super Kings,Deepak Chahar,India,80
+2021,Chennai Super Kings,Dwayne Bravo,Trinidad and Tobago,640
+2021,Chennai Super Kings,Faf du Plessis,South Africa,160
+2021,Chennai Super Kings,Imran Tahir,South Africa,100
+2021,Chennai Super Kings,Jagadeesan Narayan,India,20
+2021,Chennai Super Kings,Josh Hazlewood,Australia,200
+2021,Chennai Super Kings,KM Asif,India,40
+2021,Chennai Super Kings,Karn Sharma,India,500
+2021,Chennai Super Kings,Lungisani Ngidi,South Africa,50
+2021,Chennai Super Kings,MS Dhoni,India,1500
+2021,Chennai Super Kings,Mitchell Santner,New Zealand,50
+2021,Chennai Super Kings,R Sai Kishore,India,20
+2021,Chennai Super Kings,Ravindra Jadeja,India,700
+2021,Chennai Super Kings,Ruturaj Gaikwad,India,20
+2021,Chennai Super Kings,Sam Curran,England,550
+2021,Chennai Super Kings,Shardul Thakur,India,260
+2021,Chennai Super Kings,Suresh Raina,India,1100
+2021,Delhi Capitals,Ajinkya Rahane,India,525
+2021,Delhi Capitals,Amit Mishra,India,400
+2021,Delhi Capitals,Anrich Nortje REP,South Africa,90
+2021,Delhi Capitals,Avesh Khan,India,70
+2021,Delhi Capitals,Axar Patel,India,500
+2021,Delhi Capitals,Chris Woakes,England,150
+2021,Delhi Capitals,Kagiso Rabada,South Africa,420
+2021,Delhi Capitals,Lalit Yadav,India,20
+2021,Delhi Capitals,Marcus Stoinis,Australia,480
+2021,Delhi Capitals,Mark Wood,England,110
+2021,Delhi Capitals,Praveen Dubey,India,20
+2021,Delhi Capitals,Prithvi Shaw,India,120
+2021,Delhi Capitals,Ravichandran Ashwin,India,760
+2021,Delhi Capitals,Rishabh Pant,India,800
+2021,Delhi Capitals,Shikhar Dhawan,India,520
+2021,Delhi Capitals,Shimron Hetmyer,Guyana,775
+2021,Delhi Capitals,Shreyas Iyer,India,700
+2021,Kolkata Knight Riders,Andre Russell,Jamaica,700
+2021,Kolkata Knight Riders,Dinesh Karthik,India,740
+2021,Kolkata Knight Riders,Eoin Morgan,England,525
+2021,Kolkata Knight Riders,Kamlesh Nagarkoti,India,320
+2021,Kolkata Knight Riders,Kuldeep Yadav,India,580
+2021,Kolkata Knight Riders,Lockie Ferguson,New Zealand,160
+2021,Kolkata Knight Riders,Nitish Rana,India,340
+2021,Kolkata Knight Riders,Pat Cummins,Australia,1550
+2021,Kolkata Knight Riders,Prasidh Krishna,India,20
+2021,Kolkata Knight Riders,Rahul Tripathi,India,60
+2021,Kolkata Knight Riders,Rinku Singh,India,80
+2021,Kolkata Knight Riders,Sandeep Warrier,India,20
+2021,Kolkata Knight Riders,Shivam Mavi,India,300
+2021,Kolkata Knight Riders,Shubman Gill,India,180
+2021,Kolkata Knight Riders,Sunil Narine,Trinidad and Tobago,850
+2021,Kolkata Knight Riders,Tim Seifert REP,New Zealand,50
+2021,Kolkata Knight Riders,Varun Chakravarthy,India,400
+2021,Mumbai Indians,Aditya Tare,India,20
+2021,Mumbai Indians,Anmolpreet Singh,India,80
+2021,Mumbai Indians,Anukul Roy,India,20
+2021,Mumbai Indians,Chris Lynn,Australia,200
+2021,Mumbai Indians,Dhawal Kulkarni,India,75
+2021,Mumbai Indians,Hardik Pandya,India,1100
+2021,Mumbai Indians,Ishan Kishan,India,620
+2021,Mumbai Indians,Jasprit Bumrah,India,700
+2021,Mumbai Indians,Jayant Yadav,India,50
+2021,Mumbai Indians,Kieron Pollard,Trinidad and Tobago,540
+2021,Mumbai Indians,Krunal Pandya,India,880
+2021,Mumbai Indians,Mohsin Khan,India,20
+2021,Mumbai Indians,Quinton de Kock,South Africa,280
+2021,Mumbai Indians,Rahul Chahar,India,190
+2021,Mumbai Indians,Rohit Sharma,India,1500
+2021,Mumbai Indians,Saurabh Tiwary,India,50
+2021,Mumbai Indians,Suryakumar Yadav,India,320
+2021,Mumbai Indians,Trent Boult,New Zealand,320
+2021,Punjab Kings,Arshdeep Singh,India,20
+2021,Punjab Kings,Chris Gayle,Jamaica,200
+2021,Punjab Kings,Chris Jordan,England,300
+2021,Punjab Kings,Darshan Nalkande,India,30
+2021,Punjab Kings,Deepak Hooda,India,50
+2021,Punjab Kings,Harpreet Brar,India,20
+2021,Punjab Kings,Ishan Porel,India,20
+2021,Punjab Kings,KL Rahul,India,1100
+2021,Punjab Kings,Mandeep Singh,India,140
+2021,Punjab Kings,Mayank Agarwal,India,100
+2021,Punjab Kings,Mohammed Shami,India,480
+2021,Punjab Kings,Murugan Ashwin,India,20
+2021,Punjab Kings,Nicholas Pooran,Trinidad and Tobago,420
+2021,Punjab Kings,Prabhsimran Singh,India,55
+2021,Punjab Kings,Ravi Bishnoi,India,200
+2021,Punjab Kings,Sarfaraz Khan,India,25
+2021,Rajasthan Royals,Andrew Tye,Australia,100
+2021,Rajasthan Royals,Anuj Rawat,India,80
+2021,Rajasthan Royals,Ben Stokes,England,1250
+2021,Rajasthan Royals,David Miller,South Africa,75
+2021,Rajasthan Royals,Jaydev Unadkat,India,300
+2021,Rajasthan Royals,Jofra Archer,England,720
+2021,Rajasthan Royals,Jos Buttler,England,440
+2021,Rajasthan Royals,Kartik Tyagi,India,130
+2021,Rajasthan Royals,Mahipal Lomror,India,20
+2021,Rajasthan Royals,Manan Vohra,India,20
+2021,Rajasthan Royals,Mayank Markande,India,200
+2021,Rajasthan Royals,Rahul Tewatia,India,300
+2021,Rajasthan Royals,Riyan Parag,India,20
+2021,Rajasthan Royals,Robin Uthappa,India,300
+2021,Rajasthan Royals,Sanju Samson,India,800
+2021,Rajasthan Royals,Shreyas Gopal,India,20
+2021,Rajasthan Royals,Yashasvi Jaiswal,India,240
+2021,Royal Challengers Bangalore,AB de Villiers,South Africa,1100
+2021,Royal Challengers Bangalore,Adam Zampa REP,Australia,150
+2021,Royal Challengers Bangalore,Devdutt Padikkal,India,20
+2021,Royal Challengers Bangalore,Josh Philippe,Australia,20
+2021,Royal Challengers Bangalore,Kane Richardson,Australia,400
+2021,Royal Challengers Bangalore,Mohammed Siraj,India,260
+2021,Royal Challengers Bangalore,Navdeep Saini,India,300
+2021,Royal Challengers Bangalore,Pavan Deshpande,India,20
+2021,Royal Challengers Bangalore,Shahbaz Ahmed,India,20
+2021,Royal Challengers Bangalore,Virat Kohli,India,1700
+2021,Royal Challengers Bangalore,Washington Sundar,India,320
+2021,Royal Challengers Bangalore,Yuzvendra Chahal,India,600
+2021,Sunrisers Hyderabad,Abdul Samad,India,20
+2021,Sunrisers Hyderabad,Abhishek Sharma,India,55
+2021,Sunrisers Hyderabad,Basil Thampi,India,95
+2021,Sunrisers Hyderabad,Bhuvneshwar Kumar,India,850
+2021,Sunrisers Hyderabad,David Warner,Australia,1200
+2021,Sunrisers Hyderabad,Jason Holder REP,Barbados,75
+2021,Sunrisers Hyderabad,Jonny Bairstow,England,220
+2021,Sunrisers Hyderabad,Kane Williamson,New Zealand,300
+2021,Sunrisers Hyderabad,Khaleel Ahmed,India,300
+2021,Sunrisers Hyderabad,Manish Pandey,India,1100
+2021,Sunrisers Hyderabad,Mitchell Marsh,Australia,200
+2021,Sunrisers Hyderabad,Mohammad Nabi,Afghanistan,100
+2021,Sunrisers Hyderabad,Priyam Garg,India,190
+2021,Sunrisers Hyderabad,Rashid Khan,Afghanistan,900
+2021,Sunrisers Hyderabad,Sandeep Sharma,India,300
+2021,Sunrisers Hyderabad,Shahbaz Nadeem,India,320
+2021,Sunrisers Hyderabad,Shreevats Goswami,India,100
+2021,Sunrisers Hyderabad,Siddarth Kaul,India,380
+2021,Sunrisers Hyderabad,Thangarasu Natarajan,India,40
+2021,Sunrisers Hyderabad,Vijay Shankar,India,320
+2021,Sunrisers Hyderabad,Virat Singh,India,190
+2021,Sunrisers Hyderabad,Wriddhiman Saha,India,120
+2022,Chennai Super Kings,MS Dhoni,India,1200
+2022,Chennai Super Kings,Moeen Ali,England,800
+2022,Chennai Super Kings,Ravindra Jadeja,India,1600
+2022,Chennai Super Kings,Ruturaj Gaikwad,India,600
+2022,Delhi Capitals,Anrich Nortje,South Africa,650
+2022,Delhi Capitals,Axar Patel,India,900
+2022,Delhi Capitals,Prithvi Shaw,India,750
+2022,Delhi Capitals,Rishabh Pant,India,1600
+2022,Gujarat Titans,Hardik Pandya,India,1500
+2022,Gujarat Titans,Rashid Khan,Afghanistan,1500
+2022,Gujarat Titans,Shubman Gill,India,800
+2022,Kolkata Knight Riders,Andre Russell,West Indies,1200
+2022,Kolkata Knight Riders,Sunil Narine,West Indies,600
+2022,Kolkata Knight Riders,Varun Chakravarthy,India,800
+2022,Kolkata Knight Riders,Venkatesh Iyer,India,800
+2022,Lucknow Super Giants,KL Rahul,India,1700
+2022,Lucknow Super Giants,Marcus Stoinis,Australia,920
+2022,Lucknow Super Giants,Ravi Bishnoi,India,400
+2022,Mumbai Indians,Jasprit Bumrah,India,1200
+2022,Mumbai Indians,Kieron Pollard,West Indies,600
+2022,Mumbai Indians,Rohit Sharma,India,1600
+2022,Mumbai Indians,Suryakumar Yadav,India,800
+2022,Punjab Kings,Arshdeep Singh,India,400
+2022,Punjab Kings,Mayank Agarwal,India,1200
+2022,Rajasthan Royals,Jos Buttler,England,1000
+2022,Rajasthan Royals,Sanju Samson,India,1400
+2022,Rajasthan Royals,Yashasvi Jaiswal,India,400
+2022,Royal Challengers Bangalore,Glenn Maxwell,Australia,1100
+2022,Royal Challengers Bangalore,Mohammed Siraj,India,700
+2022,Royal Challengers Bangalore,Virat Kohli,India,1500
+2022,Sunrisers Hyderabad,Abdul Samad,India,400
+2022,Sunrisers Hyderabad,Kane Williamson,New Zealand,1400
+2022,Sunrisers Hyderabad,Umran Malik,India,400
+2023,Chennai Super Kings,Ambati Rayudu,India,675
+2023,Chennai Super Kings,Deepak Chahar,India,1400
+2023,Chennai Super Kings,Devon Conway,New Zealand,100
+2023,Chennai Super Kings,Dwaine Pretorius,South Africa,50
+2023,Chennai Super Kings,MS Dhoni,India,1200
+2023,Chennai Super Kings,Maheesh Theekshana,Sri Lanka,70
+2023,Chennai Super Kings,Matheesha Pathirana (REP),Sri Lanka,20
+2023,Chennai Super Kings,Mitchell Santner,New Zealand,190
+2023,Chennai Super Kings,Moeen Ali,England,800
+2023,Chennai Super Kings,Mukesh Choudhary,India,20
+2023,Chennai Super Kings,Prashant Solanki,India,120
+2023,Chennai Super Kings,Rajvardhan Hangargekar,India,150
+2023,Chennai Super Kings,Ravindra Jadeja,India,1600
+2023,Chennai Super Kings,Ruturaj Gaikwad,India,600
+2023,Chennai Super Kings,Shivam Dube,India,400
+2023,Chennai Super Kings,Simarjeet Singh,India,20
+2023,Chennai Super Kings,Subhranshu Senapati,India,20
+2023,Chennai Super Kings,Tushar Deshpande,India,20
+2023,Delhi Capitals,Aman Hakim Khan (T),India,20
+2023,Delhi Capitals,Anrich Nortje,South Africa,650
+2023,Delhi Capitals,Axar Patel,India,900
+2023,Delhi Capitals,Chetan Sakariya,India,420
+2023,Delhi Capitals,David Warner,Australia,625
+2023,Delhi Capitals,Kamlesh Nagarkoti,India,110
+2023,Delhi Capitals,Khaleel Ahmed,India,525
+2023,Delhi Capitals,Kuldeep Yadav,India,200
+2023,Delhi Capitals,Lalit Yadav,India,65
+2023,Delhi Capitals,Lungi Ngidi,South Africa,50
+2023,Delhi Capitals,Mitchell Marsh,Australia,650
+2023,Delhi Capitals,Mustafizur Rahman,Bangladesh,200
+2023,Delhi Capitals,Praveen Dubey,India,50
+2023,Delhi Capitals,Prithvi Shaw,India,750
+2023,Delhi Capitals,Ripal Patel,India,20
+2023,Delhi Capitals,Rishabh Pant,India,1600
+2023,Delhi Capitals,Rovman Powell,West Indies,280
+2023,Delhi Capitals,Sarfaraz Khan,India,20
+2023,Delhi Capitals,Vicky Ostwal,India,20
+2023,Delhi Capitals,Yash Dhull,India,50
+2023,Gujarat Titans,Abhinav Manohar,India,260
+2023,Gujarat Titans,Alzarri Joseph,West Indies,240
+2023,Gujarat Titans,Darshan Nalkande,India,20
+2023,Gujarat Titans,David Miller,South Africa,300
+2023,Gujarat Titans,Hardik Pandya,India,1500
+2023,Gujarat Titans,Jayant Yadav,India,170
+2023,Gujarat Titans,Matthew Wade,Australia,240
+2023,Gujarat Titans,Mohammed Shami,India,625
+2023,Gujarat Titans,Noor Ahmad,Afghanistan,30
+2023,Gujarat Titans,Pradeep Sangwan,India,20
+2023,Gujarat Titans,Rahul Tewatia,India,900
+2023,Gujarat Titans,Rashid Khan,Afghanistan,1500
+2023,Gujarat Titans,Ravisrinivasan Sai Kishore,India,300
+2023,Gujarat Titans,Sai Sudharshan,India,20
+2023,Gujarat Titans,Shubman Gill,India,800
+2023,Gujarat Titans,Vijay Shankar,India,140
+2023,Gujarat Titans,Wriddhiman Saha,India,190
+2023,Gujarat Titans,Yash Dayal,India,320
+2023,Kolkata Knight Riders,Andre Russell,West Indies,1200
+2023,Kolkata Knight Riders,Anukul Roy,India,20
+2023,Kolkata Knight Riders,Harshit Rana (REP),India,20
+2023,Kolkata Knight Riders,Lockie Ferguson (T),New Zealand,1000
+2023,Kolkata Knight Riders,Nitish Rana,India,800
+2023,Kolkata Knight Riders,Rahmanullah Gurbaz (T),Afghanistan,50
+2023,Kolkata Knight Riders,Rinku Singh,India,55
+2023,Kolkata Knight Riders,Shardul Thakur (T),India,1075
+2023,Kolkata Knight Riders,Shreyas Iyer,India,1225
+2023,Kolkata Knight Riders,Sunil Narine,West Indies,600
+2023,Kolkata Knight Riders,Tim Southee,New Zealand,150
+2023,Kolkata Knight Riders,Umesh Yadav,India,200
+2023,Kolkata Knight Riders,Varun Chakravarthy,India,800
+2023,Kolkata Knight Riders,Venkatesh Iyer,India,800
+2023,Lucknow Super Giants,Avesh Khan,India,1000
+2023,Lucknow Super Giants,Ayush Badoni,India,20
+2023,Lucknow Super Giants,Deepak Hooda,India,575
+2023,Lucknow Super Giants,KL Rahul,India,1700
+2023,Lucknow Super Giants,Karan Sharma,India,20
+2023,Lucknow Super Giants,Krishnappa Gowtham,India,90
+2023,Lucknow Super Giants,Krunal Pandya,India,825
+2023,Lucknow Super Giants,Kyle Mayers,West Indies,50
+2023,Lucknow Super Giants,Manan Vohra,India,20
+2023,Lucknow Super Giants,Marcus Stoinis,Australia,920
+2023,Lucknow Super Giants,Mark Wood,England,750
+2023,Lucknow Super Giants,Mayank Yadav,India,20
+2023,Lucknow Super Giants,Mohsin Khan,India,20
+2023,Lucknow Super Giants,Quinton de Kock,South Africa,675
+2023,Lucknow Super Giants,Ravi Bishnoi,India,400
+2023,Mumbai Indians,Akash Madhwal (REP),India,20
+2023,Mumbai Indians,Arjun Tendulkar,India,30
+2023,Mumbai Indians,Dewald Brevis,South Africa,300
+2023,Mumbai Indians,Hrithik Shokeen,India,20
+2023,Mumbai Indians,Ishan Kishan,India,1525
+2023,Mumbai Indians,Jason Behrendorff (T),Australia,75
+2023,Mumbai Indians,Jasprit Bumrah,India,1200
+2023,Mumbai Indians,Jofra Archer,England,800
+2023,Mumbai Indians,Kumar Kartikeya Singh (REP),India,20
+2023,Mumbai Indians,Mohd Arshad Khan,India,20
+2023,Mumbai Indians,Ramandeep Singh,India,20
+2023,Mumbai Indians,Rohit Sharma,India,1600
+2023,Mumbai Indians,Suryakumar Yadav,India,800
+2023,Mumbai Indians,Tilak Varma,India,170
+2023,Mumbai Indians,Tim David,Australia,825
+2023,Mumbai Indians,Tristan Stubbs (REP),South Africa,20
+2023,Punjab Kings,Arshdeep Singh,India,400
+2023,Punjab Kings,Atharva Taide,India,20
+2023,Punjab Kings,Baltej Dhanda,India,20
+2023,Punjab Kings,Bhanuka Rajapaksa,Sri Lanka,50
+2023,Punjab Kings,Harpreet Brar,India,380
+2023,Punjab Kings,Jitesh Sharma,India,20
+2023,Punjab Kings,Jonny Bairstow,England,675
+2023,Punjab Kings,Kagiso Rabada,South Africa,925
+2023,Punjab Kings,Liam Livingstone,England,1150
+2023,Punjab Kings,Nathan Ellis,Australia,75
+2023,Punjab Kings,Prabhsimran Singh,India,60
+2023,Punjab Kings,Rahul Chahar,India,525
+2023,Punjab Kings,Raj Bawa,India,200
+2023,Punjab Kings,Rishi Dhawan,India,55
+2023,Punjab Kings,Shahrukh Khan,India,900
+2023,Punjab Kings,Shikhar Dhawan,India,825
+2023,Rajasthan Royals,Devdutt Padikkal,India,775
+2023,Rajasthan Royals,Dhruv Jurel,India,20
+2023,Rajasthan Royals,Jos Buttler,England,1000
+2023,Rajasthan Royals,K.C.Cariappa,India,30
+2023,Rajasthan Royals,Kuldeep Sen,India,20
+2023,Rajasthan Royals,Kuldip Yadav,India,20
+2023,Rajasthan Royals,Navdeep Saini,India,260
+2023,Rajasthan Royals,Obed McCoy,West Indies,75
+2023,Rajasthan Royals,Prasidh Krishna,India,1000
+2023,Rajasthan Royals,Ravichandran Ashwin,India,500
+2023,Rajasthan Royals,Riyan Parag,India,380
+2023,Rajasthan Royals,Sanju Samson,India,1400
+2023,Rajasthan Royals,Shimron Hetmyer,West Indies,850
+2023,Rajasthan Royals,Trent Boult,New Zealand,800
+2023,Rajasthan Royals,Yashasvi Jaiswal,India,400
+2023,Rajasthan Royals,Yuzvendra Chahal,India,650
+2023,Royal Challengers Bangalore,Akash Deep,India,20
+2023,Royal Challengers Bangalore,Anuj Rawat,India,340
+2023,Royal Challengers Bangalore,David Willey,England,200
+2023,Royal Challengers Bangalore,Dinesh Karthik,India,550
+2023,Royal Challengers Bangalore,Faf du Plessis,South Africa,700
+2023,Royal Challengers Bangalore,Finn Allen,New Zealand,80
+2023,Royal Challengers Bangalore,Glenn Maxwell,Australia,1100
+2023,Royal Challengers Bangalore,Harshal Patel,India,1075
+2023,Royal Challengers Bangalore,Josh Hazlewood,Australia,775
+2023,Royal Challengers Bangalore,Karn Sharma,India,50
+2023,Royal Challengers Bangalore,Mahipal Lomror,India,95
+2023,Royal Challengers Bangalore,Mohammed Siraj,India,700
+2023,Royal Challengers Bangalore,Rajat Patidar (REP),India,20
+2023,Royal Challengers Bangalore,Shahbaz Ahmed,India,240
+2023,Royal Challengers Bangalore,Siddarth Kaul,India,75
+2023,Royal Challengers Bangalore,Suyash Prabhudessai,India,30
+2023,Royal Challengers Bangalore,Virat Kohli,India,1500
+2023,Royal Challengers Bangalore,Wanindu Hasaranga,Sri Lanka,1075
+2023,Sunrisers Hyderabad,Abdul Samad,India,400
+2023,Sunrisers Hyderabad,Abhishek Sharma,India,650
+2023,Sunrisers Hyderabad,Aiden Markram,South Africa,260
+2023,Sunrisers Hyderabad,Bhuvneshwar Kumar,India,420
+2023,Sunrisers Hyderabad,Fazalhaq Farooqi,Afghanistan,50
+2023,Sunrisers Hyderabad,Glenn Phillips,New Zealand,150
+2023,Sunrisers Hyderabad,Kartik Tyagi,India,400
+2023,Sunrisers Hyderabad,Marco Jansen,South Africa,420
+2023,Sunrisers Hyderabad,Rahul Tripathi,India,850
+2023,Sunrisers Hyderabad,T. Natarajan,India,400
+2023,Sunrisers Hyderabad,Umran Malik,India,400
+2023,Sunrisers Hyderabad,Washington Sundar,India,875
+2024,Chennai Super Kings,Ajay Mandal,India,20
+2024,Chennai Super Kings,Ajinkya Rahane,India,50
+2024,Chennai Super Kings,Deepak Chahar,India,1400
+2024,Chennai Super Kings,Devon Conway,New Zealand,100
+2024,Chennai Super Kings,MS Dhoni,India,1200
+2024,Chennai Super Kings,Maheesh Theekshana,Sri Lanka,70
+2024,Chennai Super Kings,Matheesha Pathirana,Sri Lanka,20
+2024,Chennai Super Kings,Mitchell Santner,New Zealand,190
+2024,Chennai Super Kings,Moeen Ali,England,800
+2024,Chennai Super Kings,Mukesh Choudhary,India,20
+2024,Chennai Super Kings,Nishant Sindhu,India,60
+2024,Chennai Super Kings,Prashant Solanki,India,120
+2024,Chennai Super Kings,Rajvardhan Hangargekar,India,150
+2024,Chennai Super Kings,Ravindra Jadeja,India,1600
+2024,Chennai Super Kings,Ruturaj Gaikwad,India,600
+2024,Chennai Super Kings,Shaik Rasheed,India,20
+2024,Chennai Super Kings,Shivam Dube,India,400
+2024,Chennai Super Kings,Simarjeet Singh,India,20
+2024,Chennai Super Kings,Tushar Deshpande,India,20
+2024,Delhi Capitals,Abishek Porel,India,20
+2024,Delhi Capitals,Anrich Nortje,South Africa,650
+2024,Delhi Capitals,Axar Patel,India,1200
+2024,Delhi Capitals,David Warner,Australia,625
+2024,Delhi Capitals,Ishant Sharma,India,50
+2024,Delhi Capitals,Khaleel Ahmed,India,525
+2024,Delhi Capitals,Kuldeep Yadav,India,200
+2024,Delhi Capitals,Lalit Yadav,India,65
+2024,Delhi Capitals,Lungi Ngidi,South Africa,50
+2024,Delhi Capitals,Mitchell Marsh,Australia,650
+2024,Delhi Capitals,Mukesh Kumar,India,550
+2024,Delhi Capitals,Pravin Dubey,India,50
+2024,Delhi Capitals,Prithvi Shaw,India,800
+2024,Delhi Capitals,Rishabh Pant,India,1600
+2024,Delhi Capitals,Vicky Ostwal,India,20
+2024,Delhi Capitals,Yash Dhull,India,50
+2024,Gujarat Titans,Abhinav Manohar,India,260
+2024,Gujarat Titans,Darshan Nalkande,India,20
+2024,Gujarat Titans,David Miller,South Africa,300
+2024,Gujarat Titans,Jayant Yadav,India,170
+2024,Gujarat Titans,Josh Little,Ireland,440
+2024,Gujarat Titans,Kane Williamson,New Zealand,200
+2024,Gujarat Titans,Matthew Wade,Australia,240
+2024,Gujarat Titans,Mohammed Shami,India,625
+2024,Gujarat Titans,Mohit Sharma,India,50
+2024,Gujarat Titans,Noor Ahmad,Afghanistan,30
+2024,Gujarat Titans,R Sai Kishore,India,300
+2024,Gujarat Titans,Rahul Tewatia,India,900
+2024,Gujarat Titans,Rashid Khan,Afghanistan,1500
+2024,Gujarat Titans,Sai Sudarshan,India,20
+2024,Gujarat Titans,Shubman Gill,India,700
+2024,Gujarat Titans,Vijay Shankar,India,140
+2024,Gujarat Titans,Wriddhiman Saha,India,190
+2024,Kolkata Knight Riders,Andre Russell,West Indies,1400
+2024,Kolkata Knight Riders,Anukul Roy,India,20
+2024,Kolkata Knight Riders,Harshit Rana,India,200
+2024,Kolkata Knight Riders,Jason Roy,England,150
+2024,Kolkata Knight Riders,Nitish Rana,India,800
+2024,Kolkata Knight Riders,Rahmanullah Gurbaz,Afghanistan,50
+2024,Kolkata Knight Riders,Rinku Singh,India,55
+2024,Kolkata Knight Riders,Shreyas Iyer,India,1225
+2024,Kolkata Knight Riders,Sunil Narine,West Indies,600
+2024,Kolkata Knight Riders,Suyash Sharma,India,20
+2024,Kolkata Knight Riders,Vaibhav Arora,India,60
+2024,Kolkata Knight Riders,Varun Chakaravarthy,India,1200
+2024,Kolkata Knight Riders,Venkatesh Iyer,India,800
+2024,Lucknow Super Giants,Amit Mishra,India,50
+2024,Lucknow Super Giants,Ayush Badoni,India,20
+2024,Lucknow Super Giants,Deepak Hooda,India,575
+2024,Lucknow Super Giants,Devdutt Padikkal,India,8
+2024,Lucknow Super Giants,KL Rahul,India,1700
+2024,Lucknow Super Giants,Krishnappa Gowtham,India,90
+2024,Lucknow Super Giants,Krunal Pandya,India,825
+2024,Lucknow Super Giants,Kyle Mayers,West Indies,50
+2024,Lucknow Super Giants,Marcus Stoinis,Australia,1100
+2024,Lucknow Super Giants,Mark Wood,England,750
+2024,Lucknow Super Giants,Mayank Yadav,India,20
+2024,Lucknow Super Giants,Mohsin Khan,India,20
+2024,Lucknow Super Giants,Naveen-ul-Haq,Afghanistan,50
+2024,Lucknow Super Giants,Nicholas Pooran,West Indies,1600
+2024,Lucknow Super Giants,Prerak Mankad,India,20
+2024,Lucknow Super Giants,Quinton de Kock,South Africa,675
+2024,Lucknow Super Giants,Ravi Bishnoi,India,400
+2024,Lucknow Super Giants,Yash Thakur,India,45
+2024,Lucknow Super Giants,Yudhvir Singh,India,20
+2024,Mumbai Indians,Akash Madhwal,India,20
+2024,Mumbai Indians,Arjun Tendulkar,India,30
+2024,Mumbai Indians,Dewald Brevis,South Africa,300
+2024,Mumbai Indians,Hardik Pandya,India,1500
+2024,Mumbai Indians,Ishan Kishan,India,1525
+2024,Mumbai Indians,Jason Behrendorff,Australia,75
+2024,Mumbai Indians,Jasprit Bumrah,India,1200
+2024,Mumbai Indians,Kumar Kartikeya,India,20
+2024,Mumbai Indians,Nehal Wadhera,India,20
+2024,Mumbai Indians,Piyush Chawla,India,50
+2024,Mumbai Indians,Rohit Sharma,India,1600
+2024,Mumbai Indians,Romario Shepherd,West Indies,50
+2024,Mumbai Indians,Shams Mulani,India,20
+2024,Mumbai Indians,Suryakumar Yadav,India,800
+2024,Mumbai Indians,Tilak Varma,India,170
+2024,Mumbai Indians,Tim David,Australia,825
+2024,Mumbai Indians,Vishnu Vinod,India,20
+2024,Punjab Kings,Arshdeep Singh,India,400
+2024,Punjab Kings,Atharva Taide,India,20
+2024,Punjab Kings,Harpreet Brar,India,380
+2024,Punjab Kings,Harpreet Singh Bhatia,India,40
+2024,Punjab Kings,Jitesh Sharma,India,20
+2024,Punjab Kings,Jonny Bairstow,England,675
+2024,Punjab Kings,Kagiso Rabada,South Africa,925
+2024,Punjab Kings,Liam Livingstone,England,1150
+2024,Punjab Kings,Nathan Ellis,Australia,75
+2024,Punjab Kings,Prabhsimran Singh,India,60
+2024,Punjab Kings,Rahul Chahar,India,525
+2024,Punjab Kings,Rishi Dhawan,India,55
+2024,Punjab Kings,Sam Curran,England,1850
+2024,Punjab Kings,Shikhar Dhawan,India,825
+2024,Punjab Kings,Shivam Singh,India,20
+2024,Punjab Kings,Sikandar Raza,Zimbabwe,50
+2024,Punjab Kings,Vidwath Kaverappa,India,20
+2024,Rajasthan Royals,Adam Zampa,Australia,150
+2024,Rajasthan Royals,Avesh Khan,India,1000
+2024,Rajasthan Royals,Dhruv Jurel,India,20
+2024,Rajasthan Royals,Donovan Ferreira,South Africa,50
+2024,Rajasthan Royals,Jos Buttler,England,1000
+2024,Rajasthan Royals,Kuldeep Sen,India,20
+2024,Rajasthan Royals,Kunal Singh Rathore,India,20
+2024,Rajasthan Royals,Navdeep Saini,India,260
+2024,Rajasthan Royals,Prasidh Krishna,India,1000
+2024,Rajasthan Royals,Ravichandran Ashwin,India,500
+2024,Rajasthan Royals,Riyan Parag,India,380
+2024,Rajasthan Royals,Sandeep Sharma,India,50
+2024,Rajasthan Royals,Sanju Samson,India,1400
+2024,Rajasthan Royals,Shimron Hetmyer,West Indies,850
+2024,Rajasthan Royals,Trent Boult,New Zealand,800
+2024,Rajasthan Royals,Yashasvi Jaiswal,India,400
+2024,Rajasthan Royals,Yuzvendra Chahal,India,650
+2024,Royal Challengers Bengaluru,Akash Deep,India,20
+2024,Royal Challengers Bengaluru,Anuj Rawat,India,340
+2024,Royal Challengers Bengaluru,Cameron Green,Australia,1750
+2024,Royal Challengers Bengaluru,Dinesh Karthik,India,550
+2024,Royal Challengers Bengaluru,Faf du Plessis,South Africa,700
+2024,Royal Challengers Bengaluru,Glenn Maxwell,Australia,1100
+2024,Royal Challengers Bengaluru,Himanshu Sharma,India,20
+2024,Royal Challengers Bengaluru,Karn Sharma,India,50
+2024,Royal Challengers Bengaluru,Mahipal Lomror,India,95
+2024,Royal Challengers Bengaluru,Manoj Bhandage,India,20
+2024,Royal Challengers Bengaluru,Mayank Dagar,India,180
+2024,Royal Challengers Bengaluru,Mohammed Siraj,India,700
+2024,Royal Challengers Bengaluru,Rajan Kumar,India,70
+2024,Royal Challengers Bengaluru,Rajat Patidar,India,20
+2024,Royal Challengers Bengaluru,Reece Topley,England,190
+2024,Royal Challengers Bengaluru,Suyash Prabhudessai,India,30
+2024,Royal Challengers Bengaluru,Vijaykumar Vyshak,India,20
+2024,Royal Challengers Bengaluru,Virat Kohli,India,1500
+2024,Royal Challengers Bengaluru,Will Jacks,England,320
+2024,Sunrisers Hyderabad,Abdul Samad,India,400
+2024,Sunrisers Hyderabad,Abhishek Sharma,India,650
+2024,Sunrisers Hyderabad,Aiden Markram,South Africa,260
+2024,Sunrisers Hyderabad,Anmolpreet Singh,India,20
+2024,Sunrisers Hyderabad,Bhuvneshwar Kumar,India,420
+2024,Sunrisers Hyderabad,Fazalhaq Farooqi,Afghanistan,50
+2024,Sunrisers Hyderabad,Glenn Phillips,New Zealand,150
+2024,Sunrisers Hyderabad,Heinrich Klaasen,South Africa,525
+2024,Sunrisers Hyderabad,Marco Jansen,South Africa,420
+2024,Sunrisers Hyderabad,Mayank Agarwal,India,825
+2024,Sunrisers Hyderabad,Mayank Markande,India,50
+2024,Sunrisers Hyderabad,Nitish Kumar Reddy,India,20
+2024,Sunrisers Hyderabad,Rahul Tripathi,India,850
+2024,Sunrisers Hyderabad,Sanvir Singh,India,20
+2024,Sunrisers Hyderabad,Shahbaz Ahmed,India,240
+2024,Sunrisers Hyderabad,T Natarajan,India,400
+2024,Sunrisers Hyderabad,Umran Malik,India,400
+2024,Sunrisers Hyderabad,Upendra Yadav,India,25
+2024,Sunrisers Hyderabad,Washington Sundar,India,875
+2025,Chennai Super Kings [ 20 ],MS Dhoni,India,400
+2025,Chennai Super Kings [ 20 ],Matheesha Pathirana,Sri Lanka,1300
+2025,Chennai Super Kings [ 20 ],Ravindra Jadeja,India,1800
+2025,Chennai Super Kings [ 20 ],Ruturaj Gaikwad,India,1800
+2025,Chennai Super Kings [ 20 ],Shivam Dube,India,1200
+2025,Delhi Capitals [ 21 ],Abhishek Porel,India,400
+2025,Delhi Capitals [ 21 ],Axar Patel,India,1650
+2025,Delhi Capitals [ 21 ],Kuldeep Yadav,India,1325
+2025,Delhi Capitals [ 21 ],Tristan Stubbs,South Africa,1000
+2025,Gujarat Titans [ 22 ],Rahul Tewatia,India,400
+2025,Gujarat Titans [ 22 ],Rashid Khan,Afghanistan,1800
+2025,Gujarat Titans [ 22 ],Sai Sudharsan,India,850
+2025,Gujarat Titans [ 22 ],Shahrukh Khan,India,400
+2025,Gujarat Titans [ 22 ],Shubman Gill,India,1650
+2025,Kolkata Knight Riders [ 23 ],Andre Russell,West Indies,1200
+2025,Kolkata Knight Riders [ 23 ],Harshit Rana,India,400
+2025,Kolkata Knight Riders [ 23 ],Ramandeep Singh,India,400
+2025,Kolkata Knight Riders [ 23 ],Rinku Singh,India,1300
+2025,Kolkata Knight Riders [ 23 ],Sunil Narine,West Indies,1200
+2025,Kolkata Knight Riders [ 23 ],Varun Chakravarthy,India,1200
+2025,Lucknow Super Giants [ 24 ],Ayush Badoni,India,400
+2025,Lucknow Super Giants [ 24 ],Mayank Yadav,India,1100
+2025,Lucknow Super Giants [ 24 ],Mohsin Khan,India,400
+2025,Lucknow Super Giants [ 24 ],Nicholas Pooran,West Indies,2100
+2025,Lucknow Super Giants [ 24 ],Ravi Bishnoi,India,1100
+2025,Mumbai Indians [ 25 ],Hardik Pandya,India,1635
+2025,Mumbai Indians [ 25 ],Jasprit Bumrah,India,1800
+2025,Mumbai Indians [ 25 ],Rohit Sharma,India,1630
+2025,Mumbai Indians [ 25 ],Suryakumar Yadav,India,1635
+2025,Mumbai Indians [ 25 ],Tilak Varma,India,800
+2025,Punjab Kings [ 26 ],Prabhsimran Singh,India,400
+2025,Punjab Kings [ 26 ],Shashank Singh,India,550
+2025,Rajasthan Royals [ 27 ],Dhruv Jurel,India,1400
+2025,Rajasthan Royals [ 27 ],Riyan Parag,India,1400
+2025,Rajasthan Royals [ 27 ],Sandeep Sharma,India,400
+2025,Rajasthan Royals [ 27 ],Sanju Samson,India,1800
+2025,Rajasthan Royals [ 27 ],Shimron Hetmyer,West Indies,1100
+2025,Rajasthan Royals [ 27 ],Yashasvi Jaiswal,India,1800
+2025,Royal Challengers Bengaluru [ 28 ],Rajat Patidar,India,1100
+2025,Royal Challengers Bengaluru [ 28 ],Virat Kohli,India,2100
+2025,Royal Challengers Bengaluru [ 28 ],Yash Dayal,India,500
+2025,Sunrisers Hyderabad [ 29 ],Abhishek Sharma,India,1400
+2025,Sunrisers Hyderabad [ 29 ],Heinrich Klaasen,South Africa,2300
+2025,Sunrisers Hyderabad [ 29 ],Nitish Kumar Reddy,India,600
+2025,Sunrisers Hyderabad [ 29 ],Pat Cummins,Australia,1800
+2025,Sunrisers Hyderabad [ 29 ],Travis Head,Australia,1400
+2026,Chennai Super Kings,Anshul Kamboj,India,340
+2026,Chennai Super Kings,Ayush Mhatre,India,30
+2026,Chennai Super Kings,Dewald Brevis,South Africa,220
+2026,Chennai Super Kings,Gurjapneet Singh,India,220
+2026,Chennai Super Kings,Jamie Overton,England,150
+2026,Chennai Super Kings,Khaleel Ahmed,India,480
+2026,Chennai Super Kings,MS Dhoni,India,400
+2026,Chennai Super Kings,Mukesh Choudhary,India,30
+2026,Chennai Super Kings,Nathan Ellis,Australia,200
+2026,Chennai Super Kings,Noor Ahmad,Afghanistan,1000
+2026,Chennai Super Kings,Ramakrishna Ghosh,India,30
+2026,Chennai Super Kings,Ruturaj Gaikwad,India,1800
+2026,Chennai Super Kings,Sanju Samson,India,1800
+2026,Chennai Super Kings,Shivam Dube,India,1200
+2026,Chennai Super Kings,Shreyas Gopal,India,30
+2026,Chennai Super Kings,Urvil Patel,India,30
+2026,Delhi Capitals,Abhishek Porel,India,400
+2026,Delhi Capitals,Ajay Mandal,India,30
+2026,Delhi Capitals,Ashutosh Sharma,India,380
+2026,Delhi Capitals,Axar Patel,India,1650
+2026,Delhi Capitals,Dushmantha Chameera,Sri Lanka,75
+2026,Delhi Capitals,KL Rahul,India,1400
+2026,Delhi Capitals,Karun Nair,India,50
+2026,Delhi Capitals,Kuldeep Yadav,India,1325
+2026,Delhi Capitals,Madhav Tiwari,India,40
+2026,Delhi Capitals,Mitchell Starc,Australia,1175
+2026,Delhi Capitals,Mukesh Kumar,India,800
+2026,Delhi Capitals,Nitish Rana,India,420
+2026,Delhi Capitals,Sameer Rizvi,India,95
+2026,Delhi Capitals,T. Natarajan,India,1075
+2026,Delhi Capitals,Tripurana Vijay,India,30
+2026,Delhi Capitals,Tristan Stubbs,South Africa,1000
+2026,Delhi Capitals,Vipraj Nigam,India,30
+2026,Gujarat Titans,Anuj Rawat,India,30
+2026,Gujarat Titans,Arshad Khan,India,130
+2026,Gujarat Titans,Glenn Phillips,New Zealand,200
+2026,Gujarat Titans,Gurnoor Brar,India,130
+2026,Gujarat Titans,Ishant Sharma,India,75
+2026,Gujarat Titans,Jayant Yadav,India,75
+2026,Gujarat Titans,Jos Buttler,England,1575
+2026,Gujarat Titans,Kagiso Rabada,South Africa,1075
+2026,Gujarat Titans,Kumar Kushagra,India,65
+2026,Gujarat Titans,Manav Suthar,India,30
+2026,Gujarat Titans,Mohammed Siraj,India,1225
+2026,Gujarat Titans,Nishant Sindhu,India,30
+2026,Gujarat Titans,Prasidh Krishna,India,950
+2026,Gujarat Titans,Rahul Tewatia,India,400
+2026,Gujarat Titans,Rashid Khan,Afghanistan,1800
+2026,Gujarat Titans,Sai Kishore,India,200
+2026,Gujarat Titans,Sai Sudharsan,India,850
+2026,Gujarat Titans,Shahrukh Khan,India,400
+2026,Gujarat Titans,Shubman Gill,India,1650
+2026,Gujarat Titans,Washington Sundar,India,320
+2026,Kolkata Knight Riders,Ajinkya Rahane,India,150
+2026,Kolkata Knight Riders,Angkrish Raghuvanshi,India,300
+2026,Kolkata Knight Riders,Anukul Roy,India,40
+2026,Kolkata Knight Riders,Harshit Rana,India,400
+2026,Kolkata Knight Riders,Manish Pandey,India,75
+2026,Kolkata Knight Riders,Ramandeep Singh,India,400
+2026,Kolkata Knight Riders,Rinku Singh,India,1300
+2026,Kolkata Knight Riders,Rovman Powell,West Indies,150
+2026,Kolkata Knight Riders,Sunil Narine,West Indies,1200
+2026,Kolkata Knight Riders,Umran Malik,India,75
+2026,Kolkata Knight Riders,Vaibhav Arora,India,180
+2026,Kolkata Knight Riders,Varun Chakravarthy,India,1200
+2026,Lucknow Super Giants,Abdul Samad,India,420
+2026,Lucknow Super Giants,Aiden Markram,South Africa,200
+2026,Lucknow Super Giants,Akash Singh,India,30
+2026,Lucknow Super Giants,Arjun Tendulkar,India,30
+2026,Lucknow Super Giants,Arshin Kulkarni,India,30
+2026,Lucknow Super Giants,Avesh Khan,India,975
+2026,Lucknow Super Giants,Ayush Badoni,India,400
+2026,Lucknow Super Giants,Digvesh Rathi,India,30
+2026,Lucknow Super Giants,Himmat Singh,India,30
+2026,Lucknow Super Giants,Manimaran Siddharth,India,75
+2026,Lucknow Super Giants,Matthew Breetzke,South Africa,75
+2026,Lucknow Super Giants,Mayank Yadav,India,1100
+2026,Lucknow Super Giants,Mitchell Marsh,Australia,340
+2026,Lucknow Super Giants,Mohammed Shami,India,1000
+2026,Lucknow Super Giants,Mohsin Khan,India,400
+2026,Lucknow Super Giants,Nicholas Pooran,West Indies,2100
+2026,Lucknow Super Giants,Prince Yadav,India,30
+2026,Lucknow Super Giants,Rishabh Pant,India,2700
+2026,Lucknow Super Giants,Shahbaz Ahmed,India,240
+2026,Mumbai Indians,Allah Ghazanfar,Afghanistan,480
+2026,Mumbai Indians,Ashwani Kumar,India,30
+2026,Mumbai Indians,Corbin Bosch,South Africa,75
+2026,Mumbai Indians,Deepak Chahar,India,925
+2026,Mumbai Indians,Hardik Pandya,India,1635
+2026,Mumbai Indians,Jasprit Bumrah,India,1800
+2026,Mumbai Indians,Mayank Markande,India,30
+2026,Mumbai Indians,Mitchell Santner,New Zealand,200
+2026,Mumbai Indians,Naman Dhir,India,525
+2026,Mumbai Indians,Raghu Sharma,India,30
+2026,Mumbai Indians,Raj Angad Bawa,India,30
+2026,Mumbai Indians,Robin Minz,India,65
+2026,Mumbai Indians,Rohit Sharma,India,1630
+2026,Mumbai Indians,Ryan Rickelton,South Africa,100
+2026,Mumbai Indians,Shardul Thakur,India,200
+2026,Mumbai Indians,Sherfane Rutherford,West Indies,260
+2026,Mumbai Indians,Suryakumar Yadav,India,1635
+2026,Mumbai Indians,Tilak Varma,India,800
+2026,Mumbai Indians,Trent Boult,New Zealand,1250
+2026,Mumbai Indians,Will Jacks,England,525
+2026,Punjab Kings,Arshdeep Singh,India,1800
+2026,Punjab Kings,Azmatullah Omarzai,Afghanistan,240
+2026,Punjab Kings,Harnoor Pannu,India,30
+2026,Punjab Kings,Harpreet Brar,India,150
+2026,Punjab Kings,Lockie Ferguson,New Zealand,200
+2026,Punjab Kings,Marco Jansen,South Africa,700
+2026,Punjab Kings,Marcus Stoinis,Australia,1100
+2026,Punjab Kings,Mitchell Owen,Australia,300
+2026,Punjab Kings,Musheer Khan,India,30
+2026,Punjab Kings,Nehal Wadhera,India,420
+2026,Punjab Kings,Prabhsimran Singh,India,400
+2026,Punjab Kings,Priyansh Arya,India,380
+2026,Punjab Kings,Pyla Avinash,India,30
+2026,Punjab Kings,Shashank Singh,India,550
+2026,Punjab Kings,Shreyas Iyer,India,2675
+2026,Punjab Kings,Suryansh Shedge,India,30
+2026,Punjab Kings,Vijaykumar Vyshak,India,180
+2026,Punjab Kings,Vishnu Vinod,India,95
+2026,Punjab Kings,Xavier Bartlett,Australia,80
+2026,Punjab Kings,Yash Thakur,India,160
+2026,Punjab Kings,Yuzvendra Chahal,India,1800
+2026,Rajasthan Royals,Dhruv Jurel,India,1400
+2026,Rajasthan Royals,Donovan Ferreira,South Africa,100
+2026,Rajasthan Royals,Jofra Archer,England,1250
+2026,Rajasthan Royals,Kwena Maphaka,South Africa,150
+2026,Rajasthan Royals,Lhuan-dre Pretorius,South Africa,30
+2026,Rajasthan Royals,Nandre Burger,South Africa,350
+2026,Rajasthan Royals,Ravindra Jadeja,India,1400
+2026,Rajasthan Royals,Riyan Parag,India,1400
+2026,Rajasthan Royals,Sam Curran,England,240
+2026,Rajasthan Royals,Sandeep Sharma,India,400
+2026,Rajasthan Royals,Shimron Hetmyer,West Indies,1100
+2026,Rajasthan Royals,Shubham Dubey,India,80
+2026,Rajasthan Royals,Tushar Deshpande,India,650
+2026,Rajasthan Royals,Vaibhav Sooryavanshi,India,110
+2026,Rajasthan Royals,Yashasvi Jaiswal,India,1800
+2026,Rajasthan Royals,Yudhvir Singh,India,35
+2026,Royal Challengers Bengaluru,Abhinandan Singh,India,30
+2026,Royal Challengers Bengaluru,Bhuvneshwar Kumar,India,1075
+2026,Royal Challengers Bengaluru,Devdutt Padikkal,India,200
+2026,Royal Challengers Bengaluru,Jacob Bethell,England,260
+2026,Royal Challengers Bengaluru,Jitesh Sharma,India,1100
+2026,Royal Challengers Bengaluru,Josh Hazlewood,Australia,1250
+2026,Royal Challengers Bengaluru,Krunal Pandya,India,575
+2026,Royal Challengers Bengaluru,Nuwan Thushara,Sri Lanka,160
+2026,Royal Challengers Bengaluru,Phil Salt,England,1150
+2026,Royal Challengers Bengaluru,Rajat Patidar,India,1100
+2026,Royal Challengers Bengaluru,Rasikh Salam,India,600
+2026,Royal Challengers Bengaluru,Romario Shepherd,West Indies,150
+2026,Royal Challengers Bengaluru,Suyash Sharma,India,260
+2026,Royal Challengers Bengaluru,Swapnil Singh,India,50
+2026,Royal Challengers Bengaluru,Tim David,Australia,300
+2026,Royal Challengers Bengaluru,Virat Kohli,India,2100
+2026,Royal Challengers Bengaluru,Yash Dayal,India,500
+2026,Sunrisers Hyderabad,Abhishek Sharma,India,1400
+2026,Sunrisers Hyderabad,Aniket Verma,India,30
+2026,Sunrisers Hyderabad,Brydon Carse,England,100
+2026,Sunrisers Hyderabad,Eshan Malinga,Sri Lanka,120
+2026,Sunrisers Hyderabad,Harsh Dubey,India,30
+2026,Sunrisers Hyderabad,Harshal Patel,India,800
+2026,Sunrisers Hyderabad,Heinrich Klaasen,South Africa,2300
+2026,Sunrisers Hyderabad,Ishan Kishan,India,1125
+2026,Sunrisers Hyderabad,Jaydev Unadkat,India,100
+2026,Sunrisers Hyderabad,Kamindu Mendis,Sri Lanka,75
+2026,Sunrisers Hyderabad,Nitish Kumar Reddy,India,600
+2026,Sunrisers Hyderabad,Pat Cummins,Australia,1800
+2026,Sunrisers Hyderabad,Smaran Ravichandran,India,30
+2026,Sunrisers Hyderabad,Travis Head,Australia,1400
+2026,Sunrisers Hyderabad,Zeeshan Ansari,India,40
